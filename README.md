@@ -1,10 +1,10 @@
-# ChronoShellf - MindTech
+# ChronoShelf - MindTech
 
-![ChronoShellf Banner](https://via.placeholder.com/800x200/1a2a6c/fdbb2d?text=ChronoShellf+-+AI+Inventory+Management)
+![ChronoShelf Banner](https://via.placeholder.com/800x200/1a2a6c/fdbb2d?text=ChronoShelf+-+AI+Inventory+Management)
 
 ## 🚀 AI-Powered Stock Expiry Management System
 
-ChronoShellf is a revolutionary inventory management platform that uses artificial intelligence to eliminate perishable stock waste by dynamically prioritizing shelf-restocking based on multi-variable analysis of expiry dates, demand patterns, and profit optimization.
+ChronoShelf is a revolutionary inventory management platform that uses artificial intelligence to eliminate perishable stock waste by dynamically prioritizing shelf-restocking based on multi-variable analysis of expiry dates, demand patterns, and profit optimization.
 
 ## 💡 The Problem
 
@@ -12,7 +12,7 @@ Retailers lose R2.3+ billion annually in avoidable perishable stock waste due to
 
 ## 🎯 The Solution
 
-ChronoShellf introduces First-Expiry-First-Out Digital Twin (FEFO-DT) technology that creates real-time virtual representations of physical inventory with intelligent prioritization and predictive waste prevention.
+ChronoShelf introduces First-Expiry-First-Out Digital Twin (FEFO-DT) technology that creates real-time virtual representations of physical inventory with intelligent prioritization and predictive waste prevention.
 
 ## 🛠️ Features
 
